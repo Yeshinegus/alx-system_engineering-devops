@@ -1,2 +1,3 @@
 #!/bin/bash
-emacs hello
+emacs hello c-x c-s c-x c-c
+
