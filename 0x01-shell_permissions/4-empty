@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs 0x01-shell_permissions/hello
+emacs hello
