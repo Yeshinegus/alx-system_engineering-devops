@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs hello c-x c-s c-x c-c
+emacs 0x01-shell_permissions/hello chmod 755 c-x c-s c-x c-c
