@@ -1,2 +1,2 @@
 #!/bin/bash
-(cd app/ts; tar -cf - `find . -name '*.html' ') | (cd 0x00-shell_basics/js ; tar -xf -)
+cp -u '*.html' alx-system_engineering-devops
